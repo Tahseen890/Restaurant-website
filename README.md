@@ -1,57 +1,6 @@
 # Restaurant-website
 This is Restaurant-website built using HTML, CSS, JavaScript.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Delicious Bites Restaurant</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <img src="./images/hero.png">
 
-    <header>
-        <h1>Delicious Bites</h1>
-        <nav>
-            <a href="#home">Home</a>
-            <a href="#menu">Menu</a>
-            <a href="#contact">Contact</a>
-        </nav>
-    </header>
-
-        <section id="home" class="section">
-        <h2>Welcome to Our Restaurant</h2>
-        <p>We serve the best food in town!</p>
-        <button onclick="showMessage()">Order Now</button>
-    </section>
-
-    <section id="menu" class="section">
-        <h2>Our Menu</h2>
-        <div class="menu-item">
-            <h3>Pizza</h3>
-            <p>Price: ₹299</p>
-        </div>
-        <div class="menu-item">
-            <h3>Burger</h3>
-            <p>Price: ₹199</p>
-        </div>
-        <div class="menu-item">
-            <h3>Pasta</h3>
-            <p>Price: ₹249</p>
-        </div>
-    </section>
-
-    <section id="contact" class="section">
-        <h2>Contact Us</h2>
-        <p>Email: delicious@example.com</p>
-        <p>Phone: +91 9876543210</p>
-    </section>
-
-    <footer>
-        <p>© 2026 Delicious Bites. All Rights Reserved.</p>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
-</html>
+         
+        
